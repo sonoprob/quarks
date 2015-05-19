@@ -91,6 +91,7 @@ JACK=git://github.com/supercollider-quarks/JACK
 JInT=git://github.com/supercollider-quarks/JInT
 JITLibExtensions=git://github.com/supercollider-quarks/JITLibExtensions
 JITMIDIKtl=git://github.com/supercollider-quarks/JITMIDIKtl
+JKLib=git://github.com/sonoprob/JKLib
 json=git://github.com/supercollider-quarks/json
 KDTree=git://github.com/supercollider-quarks/KDTree
 KeyPlayer=git://github.com/supercollider-quarks/KeyPlayer
